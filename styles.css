@@ -1,0 +1,35 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: plum;
+}
+
+heading {
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+table, th, td  {
+    border: 1px white solid;
+}
+
+table {
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead, th {
+    background-color: greenyellow;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
