@@ -9,6 +9,7 @@ heading {
 
 h1{
     color: white;
+    text-align: center;
 }
 
 h2 {
@@ -33,3 +34,17 @@ thead, th {
     font-family: monospace;
     background-color: beige;
 }
+ p {
+     text-align: center;
+ }
+
+ section{
+     padding-top: 50px;
+     padding-bottom: 10px;
+ }
+
+ button {
+     margin: auto;
+     display: flex;
+     justify-content: center;
+ }
